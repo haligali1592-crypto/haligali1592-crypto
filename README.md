@@ -15,8 +15,6 @@ me = Developer()
 me.say_hi()
 
 
-<!--
-**haligali1592-crypto/haligali1592-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
